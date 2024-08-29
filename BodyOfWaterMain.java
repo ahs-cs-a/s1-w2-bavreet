@@ -12,6 +12,5 @@ public class BodyOfWaterMain {
         System.out.println(b.getisSalt());
         System.out.println(b1.getname());
         System.out.println(b1.getavgDepth());
-        
     }
 }
